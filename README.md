@@ -20,5 +20,6 @@ https://angular.io/guide/component-interaction
 
 ### Line Charts
 
+### Bar Charts
 
 ### Pie Charts
