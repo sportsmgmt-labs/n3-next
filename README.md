@@ -12,6 +12,10 @@ The API specification, design, and code will follow the excellent examples laid 
 
 https://ng-bootstrap.github.io/
 
+The Angular Guide to Component Interaction is found here:
+
+https://angular.io/guide/component-interaction
+
 ## Chart Types
 
 ### Line Charts
