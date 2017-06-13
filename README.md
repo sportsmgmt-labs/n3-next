@@ -1,6 +1,6 @@
 # n3-next
 
-This project is a prototype of n3-charts for Angular. The 2.0 release of Angular involved a major redesign from the ground up which caused mass (complete?) incompatibility with AngularJS (i.e. Angular 1.x) components.
+This project is a prototype of n3-charts for Angular. The 2.0 release of Angular involved a major redesign from the ground up which caused complete Component incompatibility between AngularJS (1.x)  and Angular (2+).
 
 https://github.com/n3-charts
 
